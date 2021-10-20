@@ -34,7 +34,7 @@ exports.fakeToko = (fake, buffer = setting.pathImg) => {
 						"jpegThumbnail": buffer
 					},
 					"title": fake,
-					"description": "Self Aqulzz nih Boss",
+					"description": "Self Alan nih Boss",
 					"currencyCode": "IDR",
 					"priceAmount1000": "50000000",
 					"retailerId": "Self Bot",
