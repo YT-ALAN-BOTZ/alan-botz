@@ -52,7 +52,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├≽ *Y-DhyZx*
 ├≽ *Ramlan ID*
 ├≽ *X-MrG3P5*
-├≽ *Nanda*
+├≽ *Alan Botz*
 ├≽ *Juwen*
 ├≽ *Adiwajshing/Baileys*
 ╘═══ 《 *By ${ownerName}* 》 ═══`
