@@ -1,5 +1,5 @@
 {
-  "name": "XinzBot",
+  "name": "XznBot",
   "version": "1.0.0",
   "description": "Ga ada",
   "main": "main.js",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/Xzn-Team/XznBot.git"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/Xzn-Team/XznBot/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/Xzn-Team/XznBot#readme"
 }

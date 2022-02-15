@@ -1,18 +1,18 @@
 {
-    "ownerNumber": "6285718366706@s.whatsapp.net",
-    "ownerName": "ALAN BOTZ",
+    "ownerNumber": "628988986891@s.whatsapp.net",
+    "ownerName": "XZENZ BOTZ",
     "limitCount": 30,
     "gamewaktu": 60,
-    "botName": "ALAN BOTZ",
-    "pathImg": "./media/Itsuki.jpg",
+    "botName": "XznBotz",
+    "pathImg": "./media/MarinKitagawa.jpg",
     "apikey": "apikey is here",
-    "fake": "ALAN BOTZ VERIFIED",
+    "fake": "XZENZ BOTZ VERIFIED",
     "sesidInsta": "default",
     "sessionName": "aqulzz",
-    "txtDonasi": "GOPAY : 085718366706\nSaweeria :https://saweria.co/alanbotz\nPulsa : 085718366706",
+    "txtDonasi": "OVO : 08988986891",
     "gcount": {
-        "prem": 40,
-        "user": 20
+        "prem": 60,
+        "user": 25
     },
     "emote":{
         "free": "◽",
